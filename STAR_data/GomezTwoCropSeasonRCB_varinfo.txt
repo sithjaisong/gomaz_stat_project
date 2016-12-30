@@ -1,0 +1,5 @@
+"Variable":"Type"
+"Season":"Factor"
+"Rep":"Factor"
+"NitrogenRate":"Factor"
+"GrainYield":"Numeric"

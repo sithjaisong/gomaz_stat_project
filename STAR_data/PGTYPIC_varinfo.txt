@@ -1,0 +1,7 @@
+"Variable":"Type"
+"Block":"Factor"
+"Geno":"Factor"
+"X1":"Numeric"
+"X2":"Numeric"
+"X3":"Numeric"
+"X4":"Numeric"

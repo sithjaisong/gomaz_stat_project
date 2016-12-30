@@ -1,0 +1,5 @@
+"Variable":"Type"
+"Rep":"Factor"
+"Nitrogen":"Factor"
+"Variety":"Factor"
+"Yield":"Numeric"

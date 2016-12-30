@@ -1,0 +1,7 @@
+"Variable":"Type"
+"Block":"Factor"
+"Variety":"Factor"
+"Aluminum":"Factor"
+"RL":"Numeric"
+"RE":"Numeric"
+"RRE":"Numeric"

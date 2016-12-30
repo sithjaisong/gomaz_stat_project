@@ -1,0 +1,7 @@
+"Variable":"Type"
+"CTRY":"Factor"
+"Env":"Factor"
+"Year":"Numeric"
+"Geno":"Factor"
+"Block":"Factor"
+"Yield":"Numeric"

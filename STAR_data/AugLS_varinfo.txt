@@ -1,0 +1,5 @@
+"Variable":"Type"
+"Row":"Factor"
+"Column":"Factor"
+"Entry":"Factor"
+"Yield":"Numeric"

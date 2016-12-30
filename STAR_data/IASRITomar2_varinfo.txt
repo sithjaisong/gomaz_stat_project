@@ -1,0 +1,8 @@
+"Variable":"Type"
+"Group":"Factor"
+"nmfp":"Numeric"
+"nf45":"Numeric"
+"fweight":"Numeric"
+"flength":"Numeric"
+"syld":"Numeric"
+"sl":"Numeric"

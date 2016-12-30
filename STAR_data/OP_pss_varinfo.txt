@@ -1,0 +1,4 @@
+"Variable":"Type"
+"NITROGEN":"Factor"
+"REP":"Factor"
+"YIELD":"Numeric"

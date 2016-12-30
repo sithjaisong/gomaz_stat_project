@@ -1,0 +1,6 @@
+"Variable":"Type"
+"plot":"Numeric"
+"rep":"Factor"
+"block":"Factor"
+"gen":"Factor"
+"yield":"Numeric"

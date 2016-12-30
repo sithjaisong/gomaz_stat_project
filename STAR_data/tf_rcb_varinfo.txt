@@ -1,0 +1,5 @@
+"Variable":"Type"
+"REP":"Factor"
+"VARIETY":"Factor"
+"NITROGEN":"Factor"
+"YLD":"Numeric"

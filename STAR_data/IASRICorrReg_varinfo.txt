@@ -1,0 +1,6 @@
+"Variable":"Type"
+"sampleNum":"Numeric"
+"PP":"Numeric"
+"PH":"Numeric"
+"NGL":"Numeric"
+"Yield":"Numeric"

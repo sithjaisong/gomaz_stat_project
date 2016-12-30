@@ -1,0 +1,4 @@
+"Variable":"Type"
+"loc":"Factor"
+"gen":"Factor"
+"yield":"Numeric"

@@ -1,0 +1,5 @@
+"Variable":"Type"
+"YEAR":"Factor"
+"TREAT":"Factor"
+"REPS":"Factor"
+"GRNYLD":"Numeric"

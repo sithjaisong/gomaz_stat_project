@@ -1,0 +1,4 @@
+"Variable":"Type"
+"Rep":"Factor"
+"SeedingRate":"Factor"
+"GrainYield":"Numeric"

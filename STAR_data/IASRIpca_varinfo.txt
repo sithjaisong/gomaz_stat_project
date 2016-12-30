@@ -1,0 +1,6 @@
+"Variable":"Type"
+"sn":"Numeric"
+"pp":"Numeric"
+"ph":"Numeric"
+"ngl":"Numeric"
+"yld":"Numeric"

@@ -1,0 +1,7 @@
+"Variable":"Type"
+"Env":"Factor"
+"Rep":"Factor"
+"Block":"Factor"
+"Plot":"Numeric"
+"Geno":"Factor"
+"Yield":"Numeric"

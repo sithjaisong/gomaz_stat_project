@@ -1,0 +1,5 @@
+"Variable":"Type"
+"GY14":"Numeric"
+"N":"Numeric"
+"P":"Numeric"
+"K":"Numeric"

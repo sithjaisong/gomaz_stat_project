@@ -1,0 +1,6 @@
+"Variable":"Type"
+"Rep":"Factor"
+"Nitrogen":"Factor"
+"Management":"Factor"
+"Variety":"Factor"
+"GY":"Numeric"

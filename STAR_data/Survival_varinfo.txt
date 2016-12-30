@@ -1,0 +1,4 @@
+"Variable":"Type"
+"Variety":"Factor"
+"Rep":"Factor"
+"Survival":"Numeric"

@@ -1,0 +1,4 @@
+"Variable":"Type"
+"Location":"Numeric"
+"Ground":"Numeric"
+"Air":"Numeric"

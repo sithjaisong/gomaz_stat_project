@@ -1,0 +1,8 @@
+"Variable":"Type"
+"CS":"Numeric"
+"SV":"Numeric"
+"LA":"Numeric"
+"SM":"Numeric"
+"TN":"Numeric"
+"AP":"Numeric"
+"CEC":"Numeric"

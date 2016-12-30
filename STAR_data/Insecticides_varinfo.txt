@@ -1,0 +1,4 @@
+"Variable":"Type"
+"Insecticide":"Factor"
+"Rep":"Factor"
+"GrainYield":"Numeric"

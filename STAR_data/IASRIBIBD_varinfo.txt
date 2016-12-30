@@ -1,0 +1,4 @@
+"Variable":"Type"
+"BLK":"Factor"
+"TRT":"Factor"
+"CALORIES":"Numeric"

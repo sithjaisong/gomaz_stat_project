@@ -1,0 +1,6 @@
+"Variable":"Type"
+"REP":"Factor"
+"PLANTING":"Factor"
+"NITROGEN":"Factor"
+"VARIETY":"Factor"
+"YIELD":"Numeric"

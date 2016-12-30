@@ -1,0 +1,6 @@
+"Variable":"Type"
+"Obs":"Numeric"
+"Soil":"Factor"
+"Variety":"Factor"
+"Block":"Factor"
+"Yield":"Numeric"

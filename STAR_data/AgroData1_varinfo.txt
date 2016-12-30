@@ -1,0 +1,7 @@
+"Variable":"Type"
+"Rgn":"Factor"
+"PH":"Numeric"
+"SD":"Numeric"
+"PL":"Numeric"
+"GLWR":"Numeric"
+"GT":"Numeric"

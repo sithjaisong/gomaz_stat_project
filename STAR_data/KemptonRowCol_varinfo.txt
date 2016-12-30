@@ -1,0 +1,6 @@
+"Variable":"Type"
+"rep":"Factor"
+"row":"Numeric"
+"col":"Numeric"
+"gen":"Factor"
+"yield":"Numeric"

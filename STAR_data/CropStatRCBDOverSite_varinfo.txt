@@ -1,0 +1,5 @@
+"Variable":"Type"
+"NTRT":"Factor"
+"SITE":"Factor"
+"REP":"Factor"
+"YIELD":"Numeric"

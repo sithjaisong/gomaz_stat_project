@@ -1,0 +1,5 @@
+"Variable":"Type"
+"ROW":"Factor"
+"COLUMN":"Factor"
+"MAIZE":"Factor"
+"GRAINYIELD":"Numeric"

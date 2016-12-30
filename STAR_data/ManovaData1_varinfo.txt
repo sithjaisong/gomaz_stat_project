@@ -1,0 +1,6 @@
+"Variable":"Type"
+"REP":"Factor"
+"TRT":"Factor"
+"YLD":"Numeric"
+"PHT":"Numeric"
+"PAN":"Numeric"

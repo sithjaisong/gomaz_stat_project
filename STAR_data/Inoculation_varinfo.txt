@@ -1,0 +1,4 @@
+"Variable":"Type"
+"Rep":"Factor"
+"InoculationTime":"Factor"
+"OilContent":"Numeric"

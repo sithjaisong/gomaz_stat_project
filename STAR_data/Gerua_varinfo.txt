@@ -1,0 +1,8 @@
+"Variable":"Type"
+"REP":"Factor"
+"TPL":"Factor"
+"CULT":"Factor"
+"DFF":"Numeric"
+"PLHT":"Numeric"
+"PNCLE":"Numeric"
+"GRNYLD":"Numeric"

@@ -1,0 +1,6 @@
+"Variable":"Type"
+"group":"Factor"
+"fs45":"Numeric"
+"fw":"Numeric"
+"syp":"Numeric"
+"sl":"Numeric"
